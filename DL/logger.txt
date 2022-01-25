@@ -1,0 +1,16 @@
+2022-01-12 09:17:20.418 -06:00 [INF] A new Customer has been added with Name: final test, Username: finalter5, Password: finalter5
+2022-01-12 09:18:41.314 -06:00 [INF] A new Storefront has been added with Location: 546 Logging Lane, State: OK, City: Tulsa
+2022-01-12 10:57:33.808 -06:00 [INF] A new Customer has been added with Name: Finalw, Username: finalw, Password: finalw
+2022-01-12 11:19:42.631 -06:00 [INF] A new Customer has been added with Name: Bruce Wayne, Username: notban1, Password: notbman12
+2022-01-12 11:23:04.236 -06:00 [INF] A new Storefront has been added with Location: 3455 Last store ave, State: HI, City: Honolulu
+2022-01-24 17:58:03.457 -06:00 [INF] A new Order has been added with StoreId: 4,Name: 2008 Kai,CustomerId 4, OrderDate: ,Quantity 2,Price: 60000
+2022-01-24 18:29:01.368 -06:00 [INF] A new Order has been added with StoreId: 4,Name: 2008 Kai,CustomerId 4, OrderDate: ,Quantity 4,Price: 120000
+2022-01-24 18:40:50.045 -06:00 [INF] A new Order has been added with StoreId: 5,Name: 2008 Kai,CustomerId 6, OrderDate: ,Quantity 3,Price: 90000
+2022-01-25 09:01:51.921 -06:00 [INF] A new Customer has been added with Name: Foster, Username: ice123, Password: 3453
+2022-01-25 09:26:36.356 -06:00 [INF] A new Order has been added with StoreId: 1,Name: 3010 Ford Boat car,CustomerId 1, OrderDate: ,Quantity 4,Price: 4000
+2022-01-25 09:47:52.063 -06:00 [INF] A new Storefront has been added with Location: Last Test Blv, State: OR, City: Portland
+2022-01-25 09:49:55.743 -06:00 [INF] A new Inventory has been added with Quantity 10, StoreId: 6,Name: A Car,Price: 2000,Description: Its will get you there
+2022-01-25 11:26:44.224 -06:00 [INF] A new Customer has been added with Name: P1 Test, Username: P154, Password: 45643
+2022-01-25 11:27:48.758 -06:00 [INF] A new Storefront has been added with Location: 76868 P1 Lane, State: TX, City: Austin
+2022-01-25 11:29:03.372 -06:00 [INF] A new Inventory has been added with Quantity 13, StoreId: 7,Name: P1 Car,Price: 35000,Description: Its a good P1 car
+2022-01-25 11:30:37.635 -06:00 [INF] A new Order has been added with StoreId: 5,Name: 2008 Kai,CustomerId 12, OrderDate: ,Quantity 2,Price: 60000

@@ -1,0 +1,1 @@
+2022-01-11 23:17:07.272 -06:00 [INF] A new Customer has been added with Name: Log, Username: Log12, Password: Log12
