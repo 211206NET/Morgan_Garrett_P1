@@ -1,5 +1,5 @@
 ### Garrett Morgan P1
-## Rev up your Engines
+## <h1 align="center"> Rev up your Engines </h1> <br>
 # <h2 align="center"> Overview: </h2>
 <p align="center">
 <br>
